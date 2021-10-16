@@ -6,7 +6,8 @@
         "prePrice": 520,
         "price": 499,
         "img": "https://demo.xpeedstudio.com/marketo/wp-content/uploads/2018/05/05.png",
-        "ctg": "Speaker"
+        "ctg": "Speaker",
+        "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
     },
     {
         "id": "sp2",
@@ -15,7 +16,8 @@
         "prePrice": 560,
         "price": 520,
         "img": "https://demo.xpeedstudio.com/marketo/wp-content/uploads/2018/05/06-300x300-1-150x150.jpg",
-        "ctg": "Speaker"
+        "ctg": "Speaker",
+        "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
     },
     {
         "id": "sp3",
@@ -24,7 +26,8 @@
         "prePrice": 680,
         "price": 620,
         "img": "https://demo.xpeedstudio.com/marketo/wp-content/uploads/2018/05/18-150x150.png",
-        "ctg": "Speaker"
+        "ctg": "Speaker",
+        "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
     },
     {
         "id": "sp4",
@@ -33,7 +36,8 @@
         "prePrice": 90,
         "price": 70,
         "img": "https://demo.xpeedstudio.com/marketo/wp-content/uploads/2018/05/Cannon-2-Mini-Smart-Bluetooth-150x150.png",
-        "ctg": "Speaker"
+        "ctg": "Speaker",
+        "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
     },
     {
         "id": "sp5",
@@ -42,7 +46,8 @@
         "prePrice": 240,
         "price": 210,
         "img": "https://demo.xpeedstudio.com/marketo/wp-content/uploads/2018/05/08.png",
-        "ctg": "Speaker"
+        "ctg": "Speaker",
+        "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
     },
     {
         "id": "sp6",
@@ -51,7 +56,8 @@
         "prePrice": 270,
         "price": 230,
         "img": "https://demo.xpeedstudio.com/marketo/wp-content/uploads/2018/05/07-300x300-1-150x150.jpg",
-        "ctg": "Speaker"
+        "ctg": "Speaker",
+        "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
     },
     {
         "id": "sp7",
@@ -60,7 +66,8 @@
         "prePrice": 720,
         "price": 630,
         "img": "https://demo.xpeedstudio.com/marketo/wp-content/uploads/2018/04/camera-drone-300x300.png",
-        "ctg": "Speaker"
+        "ctg": "Speaker",
+        "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
     },
     {
         "id": "sp8",
@@ -69,7 +76,8 @@
         "prePrice": 90,
         "price": 85,
         "img": "https://demo.xpeedstudio.com/marketo/wp-content/uploads/2018/05/Speaker-Cannon-2-Mini-Smart-Bluetooth-150x150.png",
-        "ctg": "Speaker"
+        "ctg": "Speaker",
+        "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
     },
     {
         "id": "sp9",
@@ -78,7 +86,8 @@
         "prePrice": 80,
         "price": 65,
         "img": "https://demo.xpeedstudio.com/marketo/wp-content/uploads/2018/04/REMAX-Portable-Wireless-Bluetooth-Speaker-150x150.jpg",
-        "ctg": "Speaker"
+        "ctg": "Speaker",
+        "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
     },
     {
         "id": "sp10",
@@ -87,7 +96,8 @@
         "prePrice": 120,
         "price": 95,
         "img": "https://demo.xpeedstudio.com/marketo/wp-content/uploads/2013/06/HTB1olbtmlDH8KJj-150x150.jpg",
-        "ctg": "Speaker"
+        "ctg": "Speaker",
+        "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
     },
     {
         "id": "sp11",
@@ -96,7 +106,8 @@
         "prePrice": 50,
         "price": 40,
         "img": "https://demo.xpeedstudio.com/marketo/wp-content/uploads/2013/06/Wireless-Speaker-Portable-bluetooth.jpg",
-        "ctg": "Speaker"
+        "ctg": "Speaker",
+        "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
     },
     {
         "id": "sp12",
@@ -105,6 +116,7 @@
         "prePrice": 60,
         "price": 48,
         "img": "https://demo.xpeedstudio.com/marketo/wp-content/uploads/2013/06/New-2nd-generation-Smart-Air-150x150.png",
-        "ctg": "Speaker"
+        "ctg": "Speaker",
+        "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo."
     }
 ]
